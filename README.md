@@ -3,6 +3,7 @@
 - Download
 - Open Visual Studio Code
 - Select folder typescript-test
+- Select file UnitTest.test.js
 - Terminal -> New Terminal
 
 # Install
